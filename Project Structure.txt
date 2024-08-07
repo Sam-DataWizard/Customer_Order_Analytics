@@ -1,0 +1,13 @@
+CustomerOrderAnalytics/
+├── data/
+│   ├── customers.csv
+│   ├── orders.csv
+│   └── products.csv
+├── etl/
+│   ├── extract_data.py
+│   ├── transform_data.py
+│   └── load_data.py
+├── sql/
+│   ├── create_tables.sql
+│   ├── analytical_queries.sql
+└── README.md
